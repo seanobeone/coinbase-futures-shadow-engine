@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+*.log
+*.jsonl
+futures_shadow_state*.json
+futures_shadow_trades*.jsonl
+BOT_CONTROL*.json
+*credentials*
+*secret*
+*token*
